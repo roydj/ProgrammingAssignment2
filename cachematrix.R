@@ -115,3 +115,11 @@ testStub = function(size)
 # << invoking  inverse - 2nd iteration >>
 #   << getting cached data >>
 #   Time difference of 0 secs
+# 
+# > testStub(10000)
+# << invoking  inverse - 1st iteration >>
+#   << calculating data >>
+#   Time difference of 15.37492 mins
+# << invoking  inverse - 2nd iteration >>
+#   << getting cached data >>
+#   Time difference of 0.00100112 secs
